@@ -1,0 +1,18 @@
+C:\Users\00gillc\AppData\Local\Temporary Projects\Customers.frm\bin\Debug\Customers.frm.exe
+C:\Users\00gillc\AppData\Local\Temporary Projects\Customers.frm\bin\Debug\Customers.frm.pdb
+C:\Users\00gillc\AppData\Local\Temporary Projects\Customers.frm\bin\Debug\Customers.frm.xml
+C:\Users\00gillc\AppData\Local\Temporary Projects\Customers.frm\obj\x86\Debug\Customers.frm.Form1.resources
+C:\Users\00gillc\AppData\Local\Temporary Projects\Customers.frm\obj\x86\Debug\Customers.frm.Resources.resources
+C:\Users\00gillc\AppData\Local\Temporary Projects\Customers.frm\obj\x86\Debug\Customers.frm.vbproj.GenerateResource.Cache
+C:\Users\00gillc\AppData\Local\Temporary Projects\Customers.frm\obj\x86\Debug\Customers.frm.exe
+C:\Users\00gillc\AppData\Local\Temporary Projects\Customers.frm\obj\x86\Debug\Customers.frm.xml
+C:\Users\00gillc\AppData\Local\Temporary Projects\Customers.frm\obj\x86\Debug\Customers.frm.pdb
+\\bassstr\pupilhome$\00gillc\documents\visual studio 2010\Projects\Customers.frm\Customers.frm\obj\x86\Debug\Customers.frm.exe
+\\bassstr\pupilhome$\00gillc\documents\visual studio 2010\Projects\Customers.frm\Customers.frm\obj\x86\Debug\Customers.frm.xml
+\\bassstr\pupilhome$\00gillc\documents\visual studio 2010\Projects\Customers.frm\Customers.frm\obj\x86\Debug\Customers.frm.pdb
+\\bassstr\pupilhome$\00gillc\documents\visual studio 2010\Projects\Customers.frm\Customers.frm\bin\Debug\Customers.frm.exe
+\\bassstr\pupilhome$\00gillc\documents\visual studio 2010\Projects\Customers.frm\Customers.frm\bin\Debug\Customers.frm.pdb
+\\bassstr\pupilhome$\00gillc\documents\visual studio 2010\Projects\Customers.frm\Customers.frm\bin\Debug\Customers.frm.xml
+\\bassstr\pupilhome$\00gillc\documents\visual studio 2010\Projects\Customers.frm\Customers.frm\obj\x86\Debug\Customers.frm.Form1.resources
+\\bassstr\pupilhome$\00gillc\documents\visual studio 2010\Projects\Customers.frm\Customers.frm\obj\x86\Debug\Customers.frm.Resources.resources
+\\bassstr\pupilhome$\00gillc\documents\visual studio 2010\Projects\Customers.frm\Customers.frm\obj\x86\Debug\Customers.frm.vbproj.GenerateResource.Cache
